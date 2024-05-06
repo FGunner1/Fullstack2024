@@ -3,3 +3,5 @@ li{color: blueviolet;}
 p{color: brown;}
 #corto{color: darkgreen;}
 body{background-color: darksalmon;}
+*{margin: 0;
+padding: 0;}
